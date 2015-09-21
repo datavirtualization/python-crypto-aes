@@ -1,7 +1,4 @@
-pyjks
-=====
-
-A pure python Java KeyStore file parser, including private key decryption.
+Python Java KeyStore file parser, including private key decryption.
 
 Usage examples:
 
